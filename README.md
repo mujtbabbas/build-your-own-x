@@ -8,6 +8,7 @@ This repository is a compilation of well-written, step-by-step guides for re-cre
 
 It's a great way to learn.
 
+* [About This Standalone Edition](#about-this-standalone-edition)
 * [3D Renderer](#build-your-own-3d-renderer)
 * [AI Model](#build-your-own-ai-model)
 * [Augmented Reality](#build-your-own-augmented-reality)
@@ -38,6 +39,20 @@ It's a great way to learn.
 * [Web Browser](#build-your-own-web-browser)
 * [Web Server](#build-your-own-web-server)
 * [Uncategorized](#uncategorized)
+
+## About This Standalone Edition
+
+- **Main repository:** [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+- **Based on version:** upstream commit `aa17439b62f384511a5561ce308e9598b94d8989` (snapshotted 2026-10-20; upstream HEAD dated 2026-07-14)
+- **This edition:** v1.1.0 (v1.0.0 = clean baseline of the upstream version above)
+- **What was done:** Converted from a fork into a standalone repository (fresh history, baseline commit), then enhanced in place by Syed Mujtaba Abbas.
+- **Enhancements in this edition (v1.1.0):**
+  - This About section, with full upstream credit and version provenance
+  - `ENHANCEMENTS.md` — per-version changelog of everything changed in this edition
+  - `.github/dependabot.yml` — weekly GitHub Actions dependency updates
+  - `.markdownlint.json` + `.github/workflows/markdown-check.yml` — markdown linting automation for contributions
+  - `.editorconfig` — standard editor settings (UTF-8, LF, 2-space indent)
+- **Credit & licence:** All original work belongs to codecrafters-io and the upstream contributors. Licence is preserved unchanged — CC0, as waived in the upstream README's "Origins & License" section; no standalone LICENSE file was present in the upstream tree. This edition adds the enhancements listed above only.
 
 ## Tutorials
 
